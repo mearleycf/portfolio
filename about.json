@@ -1,0 +1,125 @@
+{
+  "name": "Mike Earley",
+  "description": "I love solving problems!",
+  "roles": [
+    "User Experience Designer",
+    "Front End Developer",
+    "Gamer"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e89x7d1ek4p"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-08-30T13:11:58.030Z",
+        "updatedAt": "2020-08-30T13:38:35.540Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/mearleycf",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e89x7d1ek4p"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-08-30T13:11:58.889Z",
+        "updatedAt": "2020-08-31T17:45:28.381Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "https://mike754938.typeform.com/to/kB3DyYrH",
+        "fontAwesomeIcon": "envelope"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "8e89x7d1ek4p"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-08-30T13:11:54.819Z",
+      "updatedAt": "2020-08-30T13:11:54.819Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Mate Logo",
+      "description": "Mate Logo",
+      "file": {
+        "url": "//images.ctfassets.net/8e89x7d1ek4p/6nf3rNaaVaUqYcoAcciSeC/fa965d6f9c1026ff80d523e35f525013/Mate_Logo.png",
+        "details": {
+          "size": 52527,
+          "image": {
+            "width": 946,
+            "height": 948
+          }
+        },
+        "fileName": "Mate Logo.png",
+        "contentType": "image/png"
+      }
+    }
+  },
+  "aboutMe": "I’m an engaging and passionate problem solver. I love learning, both as a teacher for others, and as a sponge of best practices, new technologies, and current design thinking principles. I believe strongly in the experience of a software user. I think well maintained and organized code is expected, and I strive to always code responsibly. I think that ‘Group4 Copy’ is a very poor name for a layer in design software. ",
+  "mediumUser": "@mate.starter"
+}
