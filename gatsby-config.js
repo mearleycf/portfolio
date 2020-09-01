@@ -3,7 +3,7 @@ const about = require('./about.json');
 
 require('dotenv').config();
 
-const { ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID, DETERMINISTIC } = process.env;
+const {ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID, DETERMINISTIC} = process.env;
 
 const plugins = [
   'gatsby-plugin-react-helmet',
@@ -23,8 +23,8 @@ const plugins = [
   {
     resolve: 'gatsby-source-contentful',
     options: {
-      spaceId: SPACE_ID,
-      accessToken: ACCESS_TOKEN,
+      spaceId: '8e89x7d1ek4p',
+      accessToken: '5KFt36vebEmDZN5yfb8R9gqeESbJAEmT8- EnsiTxAZA',
     },
   },
   'gatsby-transformer-remark',
