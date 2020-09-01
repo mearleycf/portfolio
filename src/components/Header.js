@@ -1,10 +1,10 @@
-import React, { Fragment } from 'react';
+import React, {Fragment} from 'react';
 import Headroom from 'react-headroom';
-import { Flex, Image } from 'rebass/styled-components';
+import {Flex, Image} from 'rebass/styled-components';
 import styled from 'styled-components';
-import { SectionLinks } from 'react-scroll-section';
+import {SectionLinks} from 'react-scroll-section';
 import RouteLink from './RouteLink';
-import Logo from './Logo/Portfolio.svg';
+import Logo from './Logo/getcssinfo-mascot-700.png';
 
 const capitalize = (s) => s && s[0].toUpperCase() + s.slice(1);
 
@@ -27,15 +27,15 @@ const formatLinks = (allLinks) =>
       const isHome = key === 'home';
       return isHome
         ? {
-            ...acc,
-            home: value,
-          }
+          ...acc,
+          home: value,
+        }
         : {
-            ...acc,
-            links: [...acc.links, { name: capitalize(key), value }],
-          };
+          ...acc,
+          links: [...acc.links, {name: capitalize(key), value}],
+        };
     },
-    { links: [], home: null },
+    {links: [], home: null},
   );
 
 const Header = () => (
@@ -47,8 +47,8 @@ const Header = () => (
       p={3}
     >
       <SectionLinks>
-        {({ allLinks }) => {
-          const { home, links } = formatLinks(allLinks);
+        {({allLinks}) => {
+          const {home, links} = formatLinks(allLinks);
 
           const homeLink = home && (
             <Image
@@ -61,7 +61,7 @@ const Header = () => (
               }}
             />
           );
-          const navLinks = links.map(({ name, value }) => (
+          const navLinks = links.map(({name, value}) => (
             <RouteLink
               key={name}
               onClick={value.onClick}

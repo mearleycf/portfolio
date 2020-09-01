@@ -199,6 +199,83 @@
         "projectUrl": "https://mearleycf.github.io/ztmrobofriends",
         "type": "Web"
       }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e89x7d1ek4p"
+          }
+        },
+        "id": "74jcsbyAOVsrbjMoFtM0Z0",
+        "type": "Entry",
+        "createdAt": "2020-09-01T14:45:18.416Z",
+        "updatedAt": "2020-09-01T14:46:53.821Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Reporting Redesign (Prototype)",
+        "publishedDate": "2020-08-19T00:00-04:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "8e89x7d1ek4p"
+              }
+            },
+            "id": "27AAjFfQPFBwdB3UzJqu8s",
+            "type": "Asset",
+            "createdAt": "2020-09-01T14:46:47.419Z",
+            "updatedAt": "2020-09-01T14:46:47.419Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "figmalogo",
+            "file": {
+              "url": "//images.ctfassets.net/8e89x7d1ek4p/27AAjFfQPFBwdB3UzJqu8s/f0ebd119791ce40d39d7b307e470987f/figmalogo.png",
+              "details": {
+                "size": 290424,
+                "image": {
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              "fileName": "figmalogo.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "description": "A Figma prototype showing a redesign of the filtering portion of a reporting system. ",
+        "projectUrl": "https://www.figma.com/proto/sgaVtMs27ndO1KzmGd8BZr/Reporting-Refresh?node-id=595%3A29904&scaling=min-zoom",
+        "type": "Prototype"
+      }
     }
   ]
 }
