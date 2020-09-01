@@ -121,5 +121,85 @@
     }
   },
   "aboutMe": "I’m an engaging and passionate problem solver. I love learning, both as a teacher for others, and as a sponge of best practices, new technologies, and current design thinking principles. I believe strongly in the experience of a software user. I think well maintained and organized code is expected, and I strive to always code responsibly. I think that ‘Group4 Copy’ is a very poor name for a layer in design software. ",
-  "mediumUser": "@mate.starter"
+  "mediumUser": "@mate.starter",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e89x7d1ek4p"
+          }
+        },
+        "id": "5wZeKUtQZY9so4KmXnwMRN",
+        "type": "Entry",
+        "createdAt": "2020-08-31T23:48:48.273Z",
+        "updatedAt": "2020-08-31T23:53:22.983Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Robofriends (a React Demo)",
+        "publishedDate": "2020-08-20T00:00-04:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "8e89x7d1ek4p"
+              }
+            },
+            "id": "4dxFaYTLTkWiFxK9Fww30K",
+            "type": "Asset",
+            "createdAt": "2020-08-31T23:48:38.955Z",
+            "updatedAt": "2020-08-31T23:48:38.955Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "React Logo",
+            "file": {
+              "url": "//images.ctfassets.net/8e89x7d1ek4p/4dxFaYTLTkWiFxK9Fww30K/5142c3c32fe3c31cc468791ca02307b5/reactlogo.png",
+              "details": {
+                "size": 142304,
+                "image": {
+                  "width": 2000,
+                  "height": 2000
+                }
+              },
+              "fileName": "reactlogo.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/mearleycf/ztmrobofriends",
+        "description": "A simple demonstration of React using basic component structure and 3rd party web APIs. ",
+        "projectUrl": "https://mearleycf.github.io/ztmrobofriends",
+        "type": "Web"
+      }
+    }
+  ]
 }
