@@ -23,8 +23,8 @@ const plugins = [
   {
     resolve: 'gatsby-source-contentful',
     options: {
-      spaceId: '8e89x7d1ek4p',
-      accessToken: '5KFt36vebEmDZN5yfb8R9gqeESbJAEmT8- EnsiTxAZA',
+      spaceId: SPACE_ID,
+      accessToken: ACCESS_TOKEN,
     },
   },
   'gatsby-transformer-remark',
