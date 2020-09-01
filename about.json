@@ -89,10 +89,10 @@
           "id": "8e89x7d1ek4p"
         }
       },
-      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "id": "1cZN8hIawkjNQsdbp8W5TD",
       "type": "Asset",
-      "createdAt": "2020-08-30T13:11:54.819Z",
-      "updatedAt": "2020-08-30T13:11:54.819Z",
+      "createdAt": "2020-09-01T13:41:18.136Z",
+      "updatedAt": "2020-09-01T13:41:18.136Z",
       "environment": {
         "sys": {
           "id": "master",
@@ -104,18 +104,17 @@
       "locale": "en-US"
     },
     "fields": {
-      "title": "Mate Logo",
-      "description": "Mate Logo",
+      "title": "getcssinfo-mascot-700",
       "file": {
-        "url": "//images.ctfassets.net/8e89x7d1ek4p/6nf3rNaaVaUqYcoAcciSeC/fa965d6f9c1026ff80d523e35f525013/Mate_Logo.png",
+        "url": "//images.ctfassets.net/8e89x7d1ek4p/1cZN8hIawkjNQsdbp8W5TD/1fad958297db9be8aa4d7a3ac2ee1eba/getcssinfo-mascot-700.png",
         "details": {
-          "size": 52527,
+          "size": 30537,
           "image": {
-            "width": 946,
-            "height": 948
+            "width": 700,
+            "height": 700
           }
         },
-        "fileName": "Mate Logo.png",
+        "fileName": "getcssinfo-mascot-700.png",
         "contentType": "image/png"
       }
     }
